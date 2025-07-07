@@ -20,5 +20,16 @@
       "noviembre": "",
       "diciembre": ""
     }
+  },
+  {
+    "nombre": "villordo",
+    "curso": "s",
+    "materia": "sss",
+    "fechas": {
+      "julio": "",
+      "agosto": "",
+      "noviembre": "",
+      "diciembre": ""
+    }
   }
 ]
