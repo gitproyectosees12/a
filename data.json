@@ -9,5 +9,16 @@
       "noviembre": "",
       "diciembre": "22"
     }
+  },
+  {
+    "nombre": "b",
+    "curso": "b",
+    "materia": "b",
+    "fechas": {
+      "julio": "",
+      "agosto": "",
+      "noviembre": "",
+      "diciembre": ""
+    }
   }
 ]
