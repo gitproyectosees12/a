@@ -110,5 +110,39 @@
         "diciembre": ""
       }
     ]
+  },
+  {
+    "nombre": "adri",
+    "curso": "12",
+    "materias": [
+      {
+        "materia": "1",
+        "julio": "1",
+        "agosto": "1",
+        "noviembre": "1",
+        "diciembre": "1"
+      },
+      {
+        "materia": "2",
+        "julio": "2",
+        "agosto": "2",
+        "noviembre": "2",
+        "diciembre": "2"
+      },
+      {
+        "materia": "3",
+        "julio": "3",
+        "agosto": "3",
+        "noviembre": "3",
+        "diciembre": "3"
+      },
+      {
+        "materia": "4",
+        "julio": "4",
+        "agosto": "4",
+        "noviembre": "4",
+        "diciembre": "4"
+      }
+    ]
   }
 ]
