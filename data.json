@@ -72,21 +72,21 @@
     "curso": "1°2°",
     "materias": [
       {
-        "materia": "ccc",
-        "julio": "ccc",
-        "agosto": "cc",
-        "noviembre": "cc",
-        "diciembre": "cc"
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
-        "materia": "ccc",
-        "julio": "cc",
-        "agosto": "cc",
-        "noviembre": "c",
-        "diciembre": "c"
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
-        "materia": "c",
+        "materia": "",
         "julio": "",
         "agosto": "",
         "noviembre": "",
