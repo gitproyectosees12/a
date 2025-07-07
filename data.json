@@ -100,5 +100,39 @@
         "diciembre": "4"
       }
     ]
+  },
+  {
+    "nombre": "yo",
+    "curso": "1°1°",
+    "materias": [
+      {
+        "materia": "",
+        "julio": "afasfsdf",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      },
+      {
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      },
+      {
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      },
+      {
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      }
+    ]
   }
 ]
