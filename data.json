@@ -31,5 +31,16 @@
       "noviembre": "",
       "diciembre": ""
     }
+  },
+  {
+    "nombre": "y",
+    "curso": "y",
+    "materia": "b",
+    "fechas": {
+      "julio": "",
+      "agosto": "",
+      "noviembre": "",
+      "diciembre": ""
+    }
   }
 ]
