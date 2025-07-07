@@ -66,5 +66,39 @@
         "diciembre": "2"
       }
     ]
+  },
+  {
+    "nombre": "jony",
+    "curso": "1°2°",
+    "materias": [
+      {
+        "materia": "ccc",
+        "julio": "ccc",
+        "agosto": "cc",
+        "noviembre": "cc",
+        "diciembre": "cc"
+      },
+      {
+        "materia": "ccc",
+        "julio": "cc",
+        "agosto": "cc",
+        "noviembre": "c",
+        "diciembre": "c"
+      },
+      {
+        "materia": "c",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      },
+      {
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      }
+    ]
   }
 ]
