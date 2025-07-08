@@ -35,7 +35,7 @@
   },
   {
     "nombre": "yo",
-    "curso": "2°3°",
+    "curso": "2Â°3Â°",
     "materias": [
       {
         "materia": "2",
@@ -69,7 +69,7 @@
   },
   {
     "nombre": "jony",
-    "curso": "1°2°",
+    "curso": "1Â°2Â°",
     "materias": [
       {
         "materia": "",
@@ -103,7 +103,7 @@
   },
   {
     "nombre": "yo",
-    "curso": "1°1°",
+    "curso": "1Â°1Â°",
     "materias": [
       {
         "materia": "",
@@ -137,7 +137,7 @@
   },
   {
     "nombre": "yo",
-    "curso": "2°5°",
+    "curso": "2Â°5Â°",
     "materias": [
       {
         "materia": "2",
@@ -171,7 +171,7 @@
   },
   {
     "nombre": "yo",
-    "curso": "2°6°",
+    "curso": "2Â°6Â°",
     "materias": [
       {
         "materia": "2",
