@@ -1,40 +1,6 @@
 [
   {
     "nombre": "yo",
-    "curso": "2°3°",
-    "materias": [
-      {
-        "materia": "2",
-        "julio": "2",
-        "agosto": "2",
-        "noviembre": "2",
-        "diciembre": "2"
-      },
-      {
-        "materia": "2",
-        "julio": "2",
-        "agosto": "2",
-        "noviembre": "2",
-        "diciembre": "2"
-      },
-      {
-        "materia": "2",
-        "julio": "2",
-        "agosto": "2",
-        "noviembre": "2",
-        "diciembre": "2"
-      },
-      {
-        "materia": "2",
-        "julio": "2",
-        "agosto": "2",
-        "noviembre": "2",
-        "diciembre": "2"
-      }
-    ]
-  },
-  {
-    "nombre": "yo",
     "curso": "2°5°",
     "materias": [
       {
