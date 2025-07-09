@@ -1,41 +1,7 @@
 [
   {
-    "nombre": "adri",
-    "curso": "1°1°",
-    "materias": [
-      {
-        "materia": "2",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
-      },
-      {
-        "materia": "1",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
-      },
-      {
-        "materia": "1",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
-      },
-      {
-        "materia": "1",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
-      }
-    ]
-  },
-  {
     "nombre": "yo",
-    "curso": "2°3°",
+    "curso": "2�3�",
     "materias": [
       {
         "materia": "2",
@@ -69,7 +35,7 @@
   },
   {
     "nombre": "jony",
-    "curso": "1°2°",
+    "curso": "1�2�",
     "materias": [
       {
         "materia": "",
@@ -103,7 +69,7 @@
   },
   {
     "nombre": "yo",
-    "curso": "1°1°",
+    "curso": "1�1�",
     "materias": [
       {
         "materia": "",
@@ -137,7 +103,7 @@
   },
   {
     "nombre": "yo",
-    "curso": "2°5°",
+    "curso": "2�5�",
     "materias": [
       {
         "materia": "2",
@@ -171,7 +137,7 @@
   },
   {
     "nombre": "yo",
-    "curso": "2°6°",
+    "curso": "2�6�",
     "materias": [
       {
         "materia": "2",
