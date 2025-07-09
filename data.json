@@ -34,40 +34,6 @@
     ]
   },
   {
-    "nombre": "jony",
-    "curso": "1°2°",
-    "materias": [
-      {
-        "materia": "",
-        "julio": "tttt",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
-      },
-      {
-        "materia": "",
-        "julio": "2",
-        "agosto": "2",
-        "noviembre": "2",
-        "diciembre": "2"
-      },
-      {
-        "materia": "",
-        "julio": "3",
-        "agosto": "3",
-        "noviembre": "3",
-        "diciembre": "3"
-      },
-      {
-        "materia": "",
-        "julio": "4",
-        "agosto": "4",
-        "noviembre": "4",
-        "diciembre": "4"
-      }
-    ]
-  },
-  {
     "nombre": "yo",
     "curso": "1°1°",
     "materias": [
