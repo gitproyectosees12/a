@@ -1,39 +1,5 @@
 [
   {
-    "nombre": "pd",
-    "curso": "1°2°",
-    "materias": [
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      }
-    ]
-  },
-  {
     "nombre": "caca",
     "curso": "1°1°",
     "materias": [
