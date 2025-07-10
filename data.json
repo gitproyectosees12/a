@@ -1,36 +1,36 @@
 [
   {
-    "nombre": "yu",
-    "curso": "1°2°",
-    "fechaHora": "10-07-25 | 13:01",
+    "nombre": "torres",
+    "curso": "3°1°",
+    "fechaHora": "10-07-25 | 13:30",
     "materias": [
       {
-        "materia": "1",
+        "materia": "",
         "julio": "123456789012",
-        "agosto": "123456789012",
-        "noviembre": "123456789012",
-        "diciembre": "123456789012"
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
-        "materia": "123456789012",
-        "julio": "123456789012",
-        "agosto": "123456789012",
-        "noviembre": "123456789012",
-        "diciembre": "123456789012"
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
-        "materia": "123456789012",
-        "julio": "123456789012",
-        "agosto": "123456789012",
-        "noviembre": "123456789012",
-        "diciembre": "123456789012"
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
-        "materia": "123456789012",
-        "julio": "123456789012",
-        "agosto": "123456789012",
-        "noviembre": "123456789012",
-        "diciembre": "123456789012"
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       }
     ]
   }
