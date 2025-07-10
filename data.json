@@ -1,41 +1,6 @@
 [
   {
     "nombre": "ffffffff",
-    "curso": "1°1°",
-    "fechaHora": "10-07-25 | 08:51",
-    "materias": [
-      {
-        "materia": "",
-        "julio": "fffffff",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": "ffffffff"
-      }
-    ]
-  },
-  {
-    "nombre": "ffffffff",
     "curso": "1°2°",
     "fechaHora": "10-07-25 | 08:51",
     "materias": [
