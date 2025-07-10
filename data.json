@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "nombre": "adri",
+    "curso": "1°1°",
+    "fechaHora": "10-07-25 | 09:44",
+    "materias": [
+      {
+        "materia": "",
+        "julio": "1",
+        "agosto": "1",
+        "noviembre": "1",
+        "diciembre": "1"
+      },
+      {
+        "materia": "",
+        "julio": "1",
+        "agosto": "1",
+        "noviembre": "1",
+        "diciembre": "1"
+      },
+      {
+        "materia": "",
+        "julio": "1",
+        "agosto": "1",
+        "noviembre": "1",
+        "diciembre": "1"
+      },
+      {
+        "materia": "",
+        "julio": "1",
+        "agosto": "1",
+        "noviembre": "1",
+        "diciembre": "1"
+      }
+    ]
+  }
+]
