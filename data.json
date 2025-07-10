@@ -1,40 +1,5 @@
 [
   {
-    "nombre": "adri",
-    "curso": "1°2°",
-    "fechaHora": "10-07-25 | 08:35",
-    "materias": [
-      {
-        "materia": "",
-        "julio": "4444",
-        "agosto": "wewewe",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      }
-    ]
-  },
-  {
     "nombre": "yyyyyyyyyyyyy",
     "curso": "1°1°",
     "fechaHora": "10-07-25 | 08:50",
