@@ -68,5 +68,40 @@
         "diciembre": ""
       }
     ]
+  },
+  {
+    "nombre": "a",
+    "curso": "1°1°",
+    "fechaHora": "10-07-25 | 00:33",
+    "materias": [
+      {
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      },
+      {
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      },
+      {
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      },
+      {
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
+      }
+    ]
   }
 ]
