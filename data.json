@@ -1,40 +1,5 @@
 [
   {
-    "nombre": "2",
-    "curso": "1°1°",
-    "fechaHora": "14-07-25 | 13:33",
-    "materias": [
-      {
-        "materia": "",
-        "julio": "11",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      }
-    ]
-  },
-  {
     "nombre": "3",
     "curso": "1°1°",
     "fechaHora": "14-07-25 | 11:52",
