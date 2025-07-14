@@ -107,12 +107,12 @@
   {
     "nombre": "pepe",
     "curso": "1°2°",
-    "fechaHora": "14-07-25 | 11:07",
+    "fechaHora": "14-07-25 | 11:14",
     "materias": [
       {
         "materia": "",
         "julio": "uuu",
-        "agosto": "",
+        "agosto": "zzz",
         "noviembre": "",
         "diciembre": ""
       },
