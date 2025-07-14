@@ -2,35 +2,35 @@
   {
     "nombre": "1",
     "curso": "1°1°",
-    "fechaHora": "14-07-25 | 11:42",
+    "fechaHora": "14-07-25 | 12:44",
     "materias": [
       {
         "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
+        "julio": "111",
+        "agosto": "111",
+        "noviembre": "11",
+        "diciembre": "1"
       },
       {
         "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
+        "julio": "1",
+        "agosto": "1",
+        "noviembre": "1",
+        "diciembre": "1"
       },
       {
         "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
+        "julio": "1",
+        "agosto": "1",
+        "noviembre": "1",
+        "diciembre": "1"
       },
       {
         "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
+        "julio": "1",
+        "agosto": "1",
+        "noviembre": "1",
+        "diciembre": "1"
       }
     ]
   },
