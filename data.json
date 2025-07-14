@@ -37,12 +37,12 @@
   {
     "nombre": "d",
     "curso": "1°1°",
-    "fechaHora": "14-07-25 | 10:55",
+    "fechaHora": "14-07-25 | 10:59",
     "materias": [
       {
         "materia": "",
         "julio": "d",
-        "agosto": "",
+        "agosto": "y",
         "noviembre": "",
         "diciembre": ""
       },
