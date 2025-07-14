@@ -2,12 +2,12 @@
   {
     "nombre": "torres",
     "curso": "3°1°",
-    "fechaHora": "14-07-25 | 09:17",
+    "fechaHora": "14-07-25 | 10:53",
     "materias": [
       {
         "materia": "",
         "julio": "123456789012",
-        "agosto": "",
+        "agosto": "si",
         "noviembre": "",
         "diciembre": ""
       },
