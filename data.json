@@ -105,37 +105,37 @@
     ]
   },
   {
-    "nombre": "torres",
-    "curso": "1°2°",
-    "fechaHora": "14-07-25 | 15:51",
+    "nombre": "33",
+    "curso": "1°1°",
+    "fechaHora": "14-07-25 | 15:52",
     "materias": [
       {
-        "materia": "2",
-        "julio": "2",
-        "agosto": "2",
-        "noviembre": "2",
-        "diciembre": "2"
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
-        "materia": "2",
-        "julio": "2",
-        "agosto": "2",
-        "noviembre": "2",
-        "diciembre": "2"
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
-        "materia": "2",
-        "julio": "2",
-        "agosto": "2",
-        "noviembre": "2",
-        "diciembre": "2"
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
-        "materia": "2",
-        "julio": "2",
-        "agosto": "2",
-        "noviembre": "2",
-        "diciembre": "2"
+        "materia": "",
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       }
     ]
   }
