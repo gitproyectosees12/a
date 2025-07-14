@@ -37,14 +37,14 @@
   {
     "nombre": "juan perez",
     "curso": "1°1°",
-    "fechaHora": "14-07-25 | 14:07",
+    "fechaHora": "14-07-25 | 14:14",
     "materias": [
       {
         "materia": "",
         "julio": "1",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
+        "agosto": "1",
+        "noviembre": "1",
+        "diciembre": "1"
       },
       {
         "materia": "",
