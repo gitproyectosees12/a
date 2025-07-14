@@ -33,40 +33,5 @@
         "diciembre": ""
       }
     ]
-  },
-  {
-    "nombre": "yo",
-    "curso": "1°1°",
-    "fechaHora": "14-07-25 | 11:06",
-    "materias": [
-      {
-        "materia": "",
-        "julio": "y",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      }
-    ]
   }
 ]
