@@ -1,36 +1,36 @@
 [
   {
-    "nombre": "adri",
-    "curso": "1°1°",
-    "fechaHora": "14-07-25 | 11:20",
+    "nombre": "yiyo",
+    "curso": "1°2°",
+    "fechaHora": "14-07-25 | 11:29",
     "materias": [
       {
         "materia": "",
-        "julio": "11",
-        "agosto": "11",
-        "noviembre": "1",
-        "diciembre": "1"
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
         "materia": "",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
         "materia": "",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       },
       {
         "materia": "",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
+        "julio": "",
+        "agosto": "",
+        "noviembre": "",
+        "diciembre": ""
       }
     ]
   }
