@@ -107,12 +107,12 @@
   {
     "nombre": "3",
     "curso": "3°1°",
-    "fechaHora": "14-07-25 | 16:35",
+    "fechaHora": "14-07-25 | 16:36",
     "materias": [
       {
         "materia": "",
-        "julio": "",
-        "agosto": "",
+        "julio": "333",
+        "agosto": "3",
         "noviembre": "",
         "diciembre": ""
       },
@@ -125,7 +125,7 @@
       },
       {
         "materia": "",
-        "julio": "",
+        "julio": "3",
         "agosto": "",
         "noviembre": "",
         "diciembre": ""
