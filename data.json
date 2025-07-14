@@ -1,40 +1,5 @@
 [
   {
-    "nombre": "juan perez",
-    "curso": "1°1°",
-    "fechaHora": "14-07-25 | 15:19",
-    "materias": [
-      {
-        "materia": "",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
-      },
-      {
-        "materia": "",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
-      },
-      {
-        "materia": "",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
-      },
-      {
-        "materia": "",
-        "julio": "1",
-        "agosto": "1",
-        "noviembre": "1",
-        "diciembre": "1"
-      }
-    ]
-  },
-  {
     "nombre": "3",
     "curso": "1°1°",
     "fechaHora": "14-07-25 | 14:22",
