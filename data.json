@@ -35,41 +35,6 @@
     ]
   },
   {
-    "nombre": "2",
-    "curso": "2°1°",
-    "fechaHora": "14-07-25 | 16:08",
-    "materias": [
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      },
-      {
-        "materia": "",
-        "julio": "",
-        "agosto": "",
-        "noviembre": "",
-        "diciembre": ""
-      }
-    ]
-  },
-  {
     "nombre": "3",
     "curso": "3°1°",
     "fechaHora": "14-07-25 | 16:11",
